@@ -1,4 +1,4 @@
-# 🧪 Manual Testing Portfolio
+# 🧪 Software Testing Portfolio
 
 This is a repository dedicated to a collection of my software testing work.
 Each project demonstrates my skills in:
