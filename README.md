@@ -16,8 +16,8 @@ Each project demonstrates my skills in:
 This repository contains a manual testing project conducted on the OrangeHRM demo web application: https://opensource-demo.orangehrmlive.com/
 #### Project Goal
 To demonstrate professional-level manual testing skills by testing a realistic web application, documenting bugs, writing test cases, and showing evidence of a systematic testing process.
-
-- [OrangeHRM](https://github.com/adamxngy/OrangeHRM)
+#### Project Link
+[OrangeHRM](https://github.com/adamxngy/OrangeHRM)
 
 ---
 
